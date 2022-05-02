@@ -1,4 +1,4 @@
-module github.com/observerly/dusk
+module github.com/nateinaction/dusk
 
 go 1.17
 
